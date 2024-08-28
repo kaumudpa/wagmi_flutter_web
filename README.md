@@ -51,8 +51,8 @@ wagmi.Web3Modal.open();
 🔴 Not Implemented Yet.\
 🟠 Work In Progress.\
 ✅ Implemented.\
-🛠️ Lacks WASM Support. (Needs rework in future.)
-📄 TODO to be managed 
+🛠️ Blocks WASM Support. (Needs rework in future.)\
+📄 TODO to be managed. 
 
 
 For more details, refer to the [API documentation](https://wagmi.sh/core/api/actions).
